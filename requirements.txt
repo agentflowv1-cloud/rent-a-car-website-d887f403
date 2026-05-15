@@ -1,0 +1,6 @@
+fastapi
+fastapi-security
+pydantic
+sqlalchemy
+psycopg2
+uvicorn
