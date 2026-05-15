@@ -1,0 +1,26 @@
+.home-screen {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.car-model {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.car-model img {
+  width: 200px;
+  height: 150px;
+}
+
+.car-model h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.car-model p {
+  font-size: 18px;
+  color: #666;
+}
